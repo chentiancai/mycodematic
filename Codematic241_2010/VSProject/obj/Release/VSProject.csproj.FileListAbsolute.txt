@@ -1,0 +1,5 @@
+E:\Codematic2源码\VSProject\bin\Release\VSProject.dll
+E:\Codematic2源码\VSProject\bin\Release\VSProject.pdb
+E:\Codematic2源码\VSProject\obj\Release\ResolveAssemblyReference.cache
+E:\Codematic2源码\VSProject\obj\Release\VSProject.dll
+E:\Codematic2源码\VSProject\obj\Release\VSProject.pdb

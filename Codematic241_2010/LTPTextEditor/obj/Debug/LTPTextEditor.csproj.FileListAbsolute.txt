@@ -1,0 +1,15 @@
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\bin\Debug\LTPTextEditor.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\bin\Debug\LTPTextEditor.pdb
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\bin\Debug\ICSharpCode.TextEditor.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Debug\LTPTextEditor.Editor.TextEditorControlWrapper.resources
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.GenerateResource.Cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Debug\LTPTextEditor.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Debug\LTPTextEditor.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\bin\Debug\LTPTextEditor.dll
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\bin\Debug\LTPTextEditor.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\bin\Debug\ICSharpCode.TextEditor.dll
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.csprojResolveAssemblyReference.cache
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.Editor.TextEditorControlWrapper.resources
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.GenerateResource.Cache
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.dll
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.pdb

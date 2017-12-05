@@ -1,0 +1,17 @@
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\bin\Debug\UpdateApp.exe.config
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\bin\Debug\UpdateApp.exe
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\bin\Debug\UpdateApp.pdb
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\obj\Debug\UpdateApp.Form1.resources
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\obj\Debug\UpdateApp.Properties.Resources.resources
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\obj\Debug\UpdateApp.csproj.GenerateResource.Cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\obj\Debug\UpdateApp.exe
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\UpdateApp\obj\Debug\UpdateApp.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\bin\Debug\UpdateApp.exe.config
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\bin\Debug\UpdateApp.exe
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\bin\Debug\UpdateApp.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\obj\Debug\UpdateApp.csprojResolveAssemblyReference.cache
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\obj\Debug\UpdateApp.Form1.resources
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\obj\Debug\UpdateApp.Properties.Resources.resources
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\obj\Debug\UpdateApp.csproj.GenerateResource.Cache
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\obj\Debug\UpdateApp.exe
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\UpdateApp\obj\Debug\UpdateApp.pdb

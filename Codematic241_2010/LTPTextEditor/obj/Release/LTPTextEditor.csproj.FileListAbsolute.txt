@@ -1,0 +1,11 @@
+E:\Codematic2源码\LTPTextEditor\bin\Release\LTPTextEditor.dll
+E:\Codematic2源码\LTPTextEditor\bin\Release\ICSharpCode.TextEditor.dll
+E:\Codematic2源码\LTPTextEditor\obj\Release\ResolveAssemblyReference.cache
+E:\Codematic2源码\LTPTextEditor\obj\Release\LTPTextEditor.Editor.TextEditorControlWrapper.resources
+E:\Codematic2源码\LTPTextEditor\obj\Release\LTPTextEditor.csproj.GenerateResource.Cache
+E:\Codematic2源码\LTPTextEditor\obj\Release\LTPTextEditor.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\bin\Release\LTPTextEditor.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\bin\Release\ICSharpCode.TextEditor.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Release\LTPTextEditor.Editor.TextEditorControlWrapper.resources
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Release\LTPTextEditor.csproj.GenerateResource.Cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\LTPTextEditor\obj\Release\LTPTextEditor.dll

@@ -1,0 +1,16 @@
+E:\Codematic2源码\Builder\BuilderDALSQL\bin\Release\LTP.BuilderDALSQL.dll
+E:\Codematic2源码\Builder\BuilderDALSQL\bin\Release\LTP.CodeHelper.dll
+E:\Codematic2源码\Builder\BuilderDALSQL\bin\Release\LTP.IBuilder.dll
+E:\Codematic2源码\Builder\BuilderDALSQL\bin\Release\LTP.IDBO.dll
+E:\Codematic2源码\Builder\BuilderDALSQL\bin\Release\LTP.Utility.dll
+E:\Codematic2源码\Builder\BuilderDALSQL\bin\Release\LTP.CmConfig.dll
+E:\Codematic2源码\Builder\BuilderDALSQL\obj\Release\ResolveAssemblyReference.cache
+E:\Codematic2源码\Builder\BuilderDALSQL\obj\Release\LTP.BuilderDALSQL.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\bin\Release\LTP.BuilderDALSQL.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\bin\Release\LTP.CodeHelper.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\bin\Release\LTP.IBuilder.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\bin\Release\LTP.IDBO.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\bin\Release\LTP.Utility.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\bin\Release\LTP.CmConfig.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\obj\Release\BuilderDALSQL.csprojResolveAssemblyReference.cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\Builder\BuilderDALSQL\obj\Release\LTP.BuilderDALSQL.dll

@@ -1,0 +1,17 @@
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\bin\Debug\Maticsoft.AddInManager.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\bin\Debug\Maticsoft.AddInManager.pdb
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\bin\Debug\LTP.Utility.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\bin\Debug\LTP.Utility.pdb
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Debug\Maticsoft.AddInManager.Properties.Resources.resources
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Debug\AddInManager.csproj.GenerateResource.Cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Debug\Maticsoft.AddInManager.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Debug\Maticsoft.AddInManager.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\bin\Debug\Maticsoft.AddInManager.dll
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\bin\Debug\Maticsoft.AddInManager.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\bin\Debug\LTP.Utility.dll
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\bin\Debug\LTP.Utility.pdb
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\AddInManager.csprojResolveAssemblyReference.cache
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.Properties.Resources.resources
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\AddInManager.csproj.GenerateResource.Cache
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.dll
+D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.pdb

@@ -1,0 +1,12 @@
+E:\Codematic2源码\AddInManager\bin\Release\Maticsoft.AddInManager.dll
+E:\Codematic2源码\AddInManager\bin\Release\LTP.Utility.dll
+E:\Codematic2源码\AddInManager\obj\Release\ResolveAssemblyReference.cache
+E:\Codematic2源码\AddInManager\obj\Release\Maticsoft.AddInManager.Properties.Resources.resources
+E:\Codematic2源码\AddInManager\obj\Release\AddInManager.csproj.GenerateResource.Cache
+E:\Codematic2源码\AddInManager\obj\Release\Maticsoft.AddInManager.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\bin\Release\Maticsoft.AddInManager.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\bin\Release\LTP.Utility.dll
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Release\AddInManager.csprojResolveAssemblyReference.cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Release\Maticsoft.AddInManager.Properties.Resources.resources
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Release\AddInManager.csproj.GenerateResource.Cache
+C:\Users\lne\Desktop\动软代码生成器\Codematic241\AddInManager\obj\Release\Maticsoft.AddInManager.dll
