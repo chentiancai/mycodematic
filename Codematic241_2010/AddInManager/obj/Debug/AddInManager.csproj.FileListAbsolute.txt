@@ -15,3 +15,12 @@ D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManage
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\AddInManager.csproj.GenerateResource.Cache
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.dll
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\bin\Debug\Maticsoft.AddInManager.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\bin\Debug\Maticsoft.AddInManager.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\bin\Debug\LTP.Utility.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\bin\Debug\LTP.Utility.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\obj\Debug\AddInManager.csprojResolveAssemblyReference.cache
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.Properties.Resources.resources
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\obj\Debug\AddInManager.csproj.GenerateResource.Cache
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\AddInManager\obj\Debug\Maticsoft.AddInManager.pdb

@@ -4,3 +4,9 @@ C:\Users\lne\Desktop\动软代码生成器\Codematic241\uninstall\obj\Debug\unin
 C:\Users\lne\Desktop\动软代码生成器\Codematic241\uninstall\obj\Debug\uninstall.csproj.GenerateResource.Cache
 C:\Users\lne\Desktop\动软代码生成器\Codematic241\uninstall\obj\Debug\uninstall.exe
 C:\Users\lne\Desktop\动软代码生成器\Codematic241\uninstall\obj\Debug\uninstall.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\uninstall\bin\Debug\uninstall.exe
+D:\MyGitProject\github\mycodematic\Codematic241_2010\uninstall\bin\Debug\uninstall.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\uninstall\obj\Debug\uninstall.Form1.resources
+D:\MyGitProject\github\mycodematic\Codematic241_2010\uninstall\obj\Debug\uninstall.csproj.GenerateResource.Cache
+D:\MyGitProject\github\mycodematic\Codematic241_2010\uninstall\obj\Debug\uninstall.exe
+D:\MyGitProject\github\mycodematic\Codematic241_2010\uninstall\obj\Debug\uninstall.pdb

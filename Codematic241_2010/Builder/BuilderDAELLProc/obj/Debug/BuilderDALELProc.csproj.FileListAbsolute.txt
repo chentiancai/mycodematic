@@ -16,3 +16,12 @@ D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\Bui
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\BuilderDAELLProc\obj\Debug\BuilderDALELProc.csprojResolveAssemblyReference.cache
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\BuilderDAELLProc\obj\Debug\LTP.BuilderDALELProc.dll
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\BuilderDAELLProc\obj\Debug\LTP.BuilderDALELProc.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\bin\Debug\LTP.BuilderDALELProc.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\bin\Debug\LTP.BuilderDALELProc.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\bin\Debug\LTP.CodeHelper.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\bin\Debug\LTP.IBuilder.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\bin\Debug\LTP.IDBO.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\bin\Debug\LTP.Utility.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\obj\Debug\LTP.BuilderDALELProc.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\obj\Debug\LTP.BuilderDALELProc.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDAELLProc\obj\Debug\BuilderDALELProc.csprojResolveAssemblyReference.cache

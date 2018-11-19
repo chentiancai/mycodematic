@@ -5,3 +5,10 @@ C:\Users\lne\Desktop\动软代码生成器\Codematic241\SplashScreen\obj\Debug\L
 C:\Users\lne\Desktop\动软代码生成器\Codematic241\SplashScreen\obj\Debug\SplashScrForm.csproj.GenerateResource.Cache
 C:\Users\lne\Desktop\动软代码生成器\Codematic241\SplashScreen\obj\Debug\LTP.SplashScrForm.dll
 C:\Users\lne\Desktop\动软代码生成器\Codematic241\SplashScreen\obj\Debug\LTP.SplashScrForm.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\bin\Debug\LTP.SplashScrForm.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\bin\Debug\LTP.SplashScrForm.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\obj\Debug\LTP.SplashScrForm.Properties.Resources.resources
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\obj\Debug\LTP.SplashScrForm.SplashScreen.resources
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\obj\Debug\SplashScrForm.csproj.GenerateResource.Cache
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\obj\Debug\LTP.SplashScrForm.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\SplashScreen\obj\Debug\LTP.SplashScrForm.pdb

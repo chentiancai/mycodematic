@@ -16,3 +16,12 @@ D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\Bui
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\BuilderDALELSQL\obj\Debug\BuilderDALELSQL.csprojResolveAssemblyReference.cache
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\BuilderDALELSQL\obj\Debug\LTP.BuilderDALELSQL.dll
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\Builder\BuilderDALELSQL\obj\Debug\LTP.BuilderDALELSQL.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\bin\Debug\LTP.BuilderDALELSQL.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\bin\Debug\LTP.BuilderDALELSQL.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\bin\Debug\LTP.CodeHelper.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\bin\Debug\LTP.IBuilder.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\bin\Debug\LTP.IDBO.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\bin\Debug\LTP.Utility.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\obj\Debug\LTP.BuilderDALELSQL.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\obj\Debug\LTP.BuilderDALELSQL.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\Builder\BuilderDALELSQL\obj\Debug\BuilderDALELSQL.csprojResolveAssemblyReference.cache

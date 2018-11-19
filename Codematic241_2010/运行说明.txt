@@ -1,0 +1,2 @@
+卸载Setup项目即可运行。
+遇到不能加载菜单时，就注释掉  loadtreeview

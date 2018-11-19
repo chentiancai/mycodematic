@@ -13,3 +13,10 @@ D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEdit
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.GenerateResource.Cache
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.dll
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\bin\Debug\LTPTextEditor.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\bin\Debug\LTPTextEditor.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\bin\Debug\ICSharpCode.TextEditor.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.Editor.TextEditorControlWrapper.resources
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.csproj.GenerateResource.Cache
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\LTPTextEditor\obj\Debug\LTPTextEditor.pdb

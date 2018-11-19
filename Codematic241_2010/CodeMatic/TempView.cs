@@ -20,7 +20,7 @@ namespace Codematic
         {
             InitializeComponent();
             settings = LTP.CmConfig.AppConfig.GetSettings();
-            LoadTreeview();
+            //LoadTreeview();
         }
 
         #region ≥ı ºªØTreeviewœÓ

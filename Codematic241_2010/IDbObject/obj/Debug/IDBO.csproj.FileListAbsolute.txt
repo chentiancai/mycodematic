@@ -20,3 +20,14 @@ D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\IDbObject\b
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\IDbObject\obj\Debug\IDBO.csprojResolveAssemblyReference.cache
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\IDbObject\obj\Debug\LTP.IDBO.dll
 D:\待整理\临时文件夹\动软代码生成器\Codematic241_2010\IDbObject\obj\Debug\LTP.IDBO.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.IDBO.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.IDBO.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.CodeHelper.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.Utility.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.CmConfig.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.CodeHelper.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.Utility.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\bin\Debug\LTP.CmConfig.pdb
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\obj\Debug\IDBO.csprojResolveAssemblyReference.cache
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\obj\Debug\LTP.IDBO.dll
+D:\MyGitProject\github\mycodematic\Codematic241_2010\IDbObject\obj\Debug\LTP.IDBO.pdb
